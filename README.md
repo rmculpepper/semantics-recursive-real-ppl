@@ -11,6 +11,10 @@ Requirements:
 - [Autosubst](https://github.com/uds-psl/autosubst) (use the `coq86-devel` branch)
 - [Coquelicot](http://coquelicot.saclay.inria.fr/)
 
+This artifact is based on a snapshot of the following repository:
+
+    https://github.com/ppaml-op3/semantics-recursive-real-ppl
+
 
 # Getting Started
 
